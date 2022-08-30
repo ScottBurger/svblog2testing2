@@ -20,11 +20,11 @@ author: Scott V. Burger
 ###############################################
 
 navbar-links:
-  Hosts: "aboutme"
-  Episodes: ""
-  Rankings: ""
-  Patreon: ""
-  Contact Us: ""
+  Hosts: "hosts"
+  Episodes: "episodes"
+  Rankings: "rankings"
+  Patreon: "patreon"
+  Contact Us: "contact"
 
 ################
 # --- Logo --- #
