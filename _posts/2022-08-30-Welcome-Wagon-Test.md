@@ -3,7 +3,7 @@ layout: post
 title: title
 subtitle: subtitle
 cover-img: /assets/img/wagon.jpg
-thumbnail-img: /assets/img/wagon.png
+thumbnail-img: /assets/img/wagon.jpg
 share-img: /assets/img/wagon.jpg
 tags: [books, test]
 ---
