@@ -2,9 +2,9 @@
 layout: post
 title: Dungeons of Dredmor
 subtitle: Hell its about time
-cover-img: /assets/img/dredmor.jpg
-thumbnail-img: /assets/img/dredmor.jpg
-share-img: /assets/img/dredmor.jpg
+cover-img: /assets/img/dredmor.jpeg
+thumbnail-img: /assets/img/dredmor.jpeg
+share-img: /assets/img/dredmor.jpeg
 tags: [traditional roguelike, test, test2]
 ---
 
