@@ -90,8 +90,8 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
-  instagram: true
+  linkedin: false
+  # instagram: true # have to add in custom functionality for?
   vk: false
 
 # How to display the link to your website in the footer
