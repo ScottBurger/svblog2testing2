@@ -5,7 +5,7 @@ subtitle: beep
 cover-img: /assets/img/pineapple.jpeg
 thumbnail-img: /assets/img/pineapple.jpeg
 share-img: /assets/img/pineapple.jpeg
-tags: [year 2012, modern rogue, episode bundle, 2012]
+tags: [year 2012, modern rogue, episode bundle, 2012, "2012"]
 ---
 
 
