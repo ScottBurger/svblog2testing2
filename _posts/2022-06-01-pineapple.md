@@ -5,7 +5,7 @@ subtitle: beep
 cover-img: /assets/img/pineapple.jpeg
 thumbnail-img: /assets/img/pineapple.jpeg
 share-img: /assets/img/pineapple.jpeg
-tags: [traditional roguelike, test, test2]
+tags: [2012, modern rogue, episode bundle]
 ---
 
 
