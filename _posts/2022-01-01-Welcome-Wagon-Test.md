@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome Wagon
+title: "Welcome Wagon"
 date: 2020-10-01
 file: https://arttrk.com/p/MTCST/aphid.fireside.fm/d/1437767933/8658dd0c-baa7-4412-9466-918650a0013d/0dfd4a8d-03e5-48e0-9536-14ef8fb1d62b.mp3
 summary: "Intro episode summary text here."
