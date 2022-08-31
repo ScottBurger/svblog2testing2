@@ -5,7 +5,7 @@ subtitle: big
 cover-img: /assets/img/boi.jpeg
 thumbnail-img: /assets/img/boi.jpeg
 share-img: /assets/img/boi.jpeg
-tags: [traditional roguelike, test, test2]
+tags: [modern rogue, 2011]
 ---
 
 
