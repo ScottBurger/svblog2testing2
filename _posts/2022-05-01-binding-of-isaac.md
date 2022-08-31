@@ -5,7 +5,7 @@ subtitle: big
 cover-img: /assets/img/boi.jpeg
 thumbnail-img: /assets/img/boi.jpeg
 share-img: /assets/img/boi.jpeg
-tags: [modern rogue, 2011]
+tags: [modern rogue, year 2011]
 ---
 
 
