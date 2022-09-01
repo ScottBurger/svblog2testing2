@@ -4,7 +4,7 @@ title: Dungeons of Dredmor
 subtitle: Hell its about time
 cover-img: /assets/img/98800_library_hero.jpg
 thumbnail-img: /assets/img/98800_library_600x900.jpg
-share-img: /assets/img/dredmor.jpeg
+share-img: /assets/img/98800_icon.jpg
 tags: [traditional roguelike, "2011"]
 ---
 
