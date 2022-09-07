@@ -10,7 +10,7 @@ voices: "scott, will, colin"
 cover-img: /assets/img/226620_library_hero.JPG
 thumbnail-img: /assets/img/226620_library_hero.JPG
 share-img: /assets/img/226620_library_hero.JPG
-tags: [episode bundle, traditional roguelike, modern rogue]
+tags: ["2013", tradtitional roguelike]
 ---
 
 
