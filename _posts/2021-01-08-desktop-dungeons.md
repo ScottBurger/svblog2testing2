@@ -7,9 +7,9 @@ description: "Pellentesque aliquet lobortis leo et vehicula. Phasellus finibus i
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming"
 voices: "scott, will, colin"
-cover-img: /assets/img/226620_library_hero.JPG
-thumbnail-img: /assets/img/226620_library_hero.JPG
-share-img: /assets/img/226620_library_hero.JPG
+cover-img: /assets/img/226620_library_hero.jpg
+thumbnail-img: /assets/img/226620_library_hero.jpg
+share-img: /assets/img/226620_library_hero.jpg
 tags: ["2013", tradtitional roguelike]
 ---
 
