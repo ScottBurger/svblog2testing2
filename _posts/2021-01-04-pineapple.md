@@ -10,7 +10,7 @@ voices: "scott, will, colin"
 cover-img: /assets/img/pineapple.png
 thumbnail-img: /assets/img/pineapple.png
 share-img: /assets/img/pineapple.png
-tags: [episode bundle, traditional roguelike, modern rogue]
+tags: ["2012", episode bundle, modern rogue]
 ---
 
 
