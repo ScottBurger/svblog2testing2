@@ -10,7 +10,7 @@ voices: "scott, will, colin"
 cover-img: /assets/img/248820_library_hero.JPG
 thumbnail-img: /assets/img/248820_library_hero.JPG
 share-img: /assets/img/248820_library_hero.JPG
-tags: [modern rogue]
+tags: ["2013", modern rogue]
 ---
 
 
