@@ -10,7 +10,7 @@ voices: "scott, will, colin"
 cover-img: /assets/img/wagon.jpg
 thumbnail-img: /assets/img/wagon.jpg
 share-img: /assets/img/wagon.jpg
-tags: [logistics, test]
+tags: [logistics, "2022"]
 ---
 
 
