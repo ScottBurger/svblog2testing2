@@ -1,9 +1,9 @@
 # Hosts
-Scott
+Scott Burger
 
-Will
+Will Wright
 
-Colin
+Colin Smith
 
 ## Frequents Guests
 
