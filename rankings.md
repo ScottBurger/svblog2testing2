@@ -1,6 +1,11 @@
 Each week we play one of the top 100(ish) games in the roguelike pantheon then rank em.
 
+* Scott rankings only
+* Will rankings only
+* Colin rankings only
+* Guest rankings
 
+The combined ranking data can be found below:
 
 | Game | Scott Rank | Will Rank | Colin Rank | Avg |
 |  :----: |  :----: |  :----: |  :----: |  :----: |
@@ -15,19 +20,3 @@ Each week we play one of the top 100(ish) games in the roguelike pantheon then r
 
 
 
-
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
-
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-
-</td></tr> </table>
