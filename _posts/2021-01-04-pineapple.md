@@ -7,9 +7,9 @@ description: "Pellentesque aliquet lobortis leo et vehicula. Phasellus finibus i
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming"
 voices: "scott, will, colin"
-cover-img: /assets/img/pineapple.PNG
-thumbnail-img: /assets/img/pineapple.PNG
-share-img: /assets/img/pineapple.PNG
+cover-img: /assets/img/207430_library_hero.jpg
+thumbnail-img: /assets/img/207430_library_hero.jpg
+share-img: /assets/img/207430_library_hero.jpg
 tags: ["2012", episode bundle, modern rogue]
 ---
 
