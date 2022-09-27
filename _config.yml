@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Going Rogue Gaming Podcast
+title: GROGPOD!
 description: GROGGGG
 
 # Your name to show in the footer
@@ -23,6 +23,7 @@ lang: en
 ###############################################
 
 navbar-links:
+  Subscribe: "subscribe"
   Hosts: "hosts"
   Episodes: "tags"
   Rankings: "rankings"
@@ -98,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "GROGPOD.ZONE"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
