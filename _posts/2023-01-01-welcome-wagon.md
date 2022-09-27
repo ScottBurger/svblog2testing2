@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Welcome Wagon"
-date: 2021-01-01
+date: 2023-01-01
 file: http://link-rot.s3.amazonaws.com/Episode-1.mp3
 description: "Join Scott Burger, Will Wright, and Colin Smith for the kickoff of the podcast."
 explicit: "yes" 
@@ -14,7 +14,7 @@ tags: [logistics, "2022"]
 ---
 
 
-Mauris nec turpis sed dolor consectetur finibus. Integer quis quam posuere, dapibus sapien vel, posuere neque. Cras malesuada molestie luctus. Vestibulum ut facilisis neque. 
+The podcast kicks off! Join Scott Burger, Will Wright, and Colin Smith as we lay down the podcast roadmap. 
 
 
 
