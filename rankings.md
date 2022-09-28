@@ -5,6 +5,14 @@ Each week we play one of the top 100(ish) games in the roguelike pantheon then r
 * Colin rankings only
 * Guest rankings
 
+<!-- 
+when finished:
+* games that X liked more than Y
+* games that X and Y agreed on perfectly
+* top 'gems' = avg rank vs review rank
+* top 'anti-gems' = avg rank vs review rank
+-->
+
 The combined ranking data can be found below:
 
 | Game | Scott Rank | Will Rank | Colin Rank | Avg |
