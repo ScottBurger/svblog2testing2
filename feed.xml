@@ -20,7 +20,7 @@ layout: null
     <itunes:category text="Gaming" />
     <itunes:explicit>yes</itunes:explicit>
     
-    {% assign excerpt_length = site.excerpt_length | default: 50 %}
+    {% assign excerpt_length = site.excerpt_length | default: 500 %}
     
     {% for post in site.posts %}
       <item>
