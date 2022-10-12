@@ -1,8 +1,8 @@
 Each week we play one of the top 100(ish) games in the roguelike pantheon then rank em.
 
-* Scott rankings only
-* Will rankings only
-* Colin rankings only
+* [Scott rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=1410426659)
+* [Will rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=73210139)
+* [Colin rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=2046262583)
 * Guest rankings
 
 <!-- 
@@ -17,8 +17,8 @@ The combined ranking data can be found below:
 
 | Game | Scott Rank | Will Rank | Colin Rank | Avg |
 |  :----: |  :----: |  :----: |  :----: |  :----: |
-| Dungeons of Dredmor | 1 | 1 | 2 | 1.33
-| Binding of Isaac | 2 | 2 | 1 | 1.66
+| Dungeons of Dredmor | 1 | 1 | 1 | 1
+
 
 
 
