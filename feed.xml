@@ -18,6 +18,10 @@ layout: null
     <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/ascii-smiley.png" />
     <language>{{ site.lang }}</language>
     <itunes:category text="Gaming" />
+    <itunes:author text="Scott V. Burger" />
+    <itunes:owner>
+        <itunes:email>grogpodzone@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>yes</itunes:explicit>
     
     {% assign excerpt_length = site.excerpt_length | default: 500 %}
@@ -35,6 +39,7 @@ layout: null
         <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/ascii-smiley.png" />
         <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>{{ post.duration }} </itunes:duration>
       </item>
     {% endfor %}
     
