@@ -18,7 +18,7 @@ layout: null
     <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/ascii-smiley.png" />
     <language>{{ site.lang }}</language>
     <itunes:category text="Gaming" />
-    <itunes:author>Scott V. Burger />
+    <itunes:author>Scott V. Burger </itunes:author>
     <itunes:owner>
         <itunes:email>grogpodzone@gmail.com</itunes:email>
     </itunes:owner>
