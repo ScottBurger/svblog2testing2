@@ -11,4 +11,4 @@ Find our podcast on your favorite platforms!
 * iTunes
 * [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 * Google Podcasts
-* Amazon Music
+* [Amazon Music](https://music.amazon.com/podcasts/3122fa8f-6b40-458a-b280-4711665b7623/grogpod)
