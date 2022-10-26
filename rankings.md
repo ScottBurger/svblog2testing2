@@ -17,7 +17,9 @@ The combined ranking data can be found below:
 
 | Game | Scott Rank | Will Rank | Colin Rank | Avg |
 |  :----: |  :----: |  :----: |  :----: |  :----: |
-| Dungeons of Dredmor | 1 | 1 | 1 | 1
+| The Binding of Isaac: Rebirth | 1 | 1 | 1 | 1
+| Dungeons of Dredmor | 2 | 2 | 2 | 2
+| The Binding of Isaac | 3 | 3 | 3 | 3
 
 
 
