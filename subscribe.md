@@ -8,7 +8,7 @@ You can find a [link to our custom RSS feed to point your pod-catching software 
 ## Platform Links
 Find our podcast on your favorite platforms!
 
-* iTunes
+* iTunes (coming soon)
 * [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
-* Google Podcasts
+* Google Podcasts (coming soon)
 * [Amazon Music](https://music.amazon.com/podcasts/3122fa8f-6b40-458a-b280-4711665b7623/grogpod)
