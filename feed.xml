@@ -15,7 +15,7 @@ layout: null
     
     <link>{{ '' | absolute_url }}</link>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/ascii-smiley.png" />
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grogpod_logo.png" />
     <language>{{ site.lang }}</language>
     <itunes:category text="Video Games" />
     <itunes:author>Scott V. Burger </itunes:author>
