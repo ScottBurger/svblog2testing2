@@ -17,8 +17,9 @@ layout: null
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
     <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grogpod_logo.png" />
     <language>{{ site.lang }}</language>
-    <itunes:category text="Video Games" />
-    <itunes:category text="Games" />
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
     <itunes:author>Scott V. Burger </itunes:author>
     <itunes:owner>
         <itunes:email>grogpodzone@gmail.com</itunes:email>
