@@ -9,7 +9,8 @@ it was kind of wild, I had applied to show an early build of PSC at the indiegam
 
 ## What other games inspired you to develop Pineapple Smash Crew?
 Cannon fodder was a big one, there was an old game called gain ground on master system which doesn't really have the same mechanics but I love that viewpoint, and also it featured an interesting array of weapons that made you play a bit different depending on which you had.. and also the actual real life game Pool, I love games that feature bouncing around physics objects :)
-There seems to be some deep lore in the game, what can you tell us about the story of Pineapple Smash Crew?
+
+## There seems to be some deep lore in the game, what can you tell us about the story of Pineapple Smash Crew?
 err, I'm struggling with that one as it was some time ago I wrote all that! but I remember being inspired by playing Space Hulk as a kid, and imagining all these huge floating hulks floating through space, and then imagining who would have built them and what might cause the disasters that stranded them...
 
 ## Indie development was very hard back in 2012. What tools do you wish you had available when you were developing the game that are widely accessible now?
