@@ -30,4 +30,4 @@ The Roguelike genre has expanded considerably in the last 10 years. Where do you
 another tough question! I really enjoyed Tower Of Guns when it came out, which felt like a really fresh take on the Roguelike concept.. I'm not a purist, I love seeing ideas melded together (although I love true strict Roguelikes as well) - I'm always excited to see what happens when Roguelike concepts are applied to completely different genres and something new is born.. I don't really have a vision I'm just excited to see what people will come up with next :)
 
 ## Are there any projects or things you'd like to promote or draw attention to 
-oh missed your follow up q: no to be honest I don't have any games in the works at the moment I'm doing freelance illustration these days- but I do have plans to get back into development so watch this space :)
+I don't have any games in the works at the moment I'm doing freelance illustration these days- but I do have plans to get back into development so watch this space :)
