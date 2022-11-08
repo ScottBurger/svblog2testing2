@@ -27,7 +27,8 @@ any game at all.. I'd really like to make some procedurally generated future cit
 
 ## With your wealth of knowledge, what advice would you give to upcoming indie developers?
 This is a really hard one because things are so different now. If you're solo I'd say try to get into a position where you're self sustaining, either with a day job and working evenings/weekends, or if you can get any kind of business grant or arts scheme, or if you're lucky enough to be living with parents.. but in some situation where the time pressure to complete your project isn't crushing, because you need to feel free to explore ideas and prototype before committing on direction. Early access wasn't really a thing when I started but that could be a good way to help sustain development and grow a community
-The Roguelike genre has expanded considerably in the last 10 years. Where do you want to see it go in the next 10 years?
+
+## The Roguelike genre has expanded considerably in the last 10 years. Where do you want to see it go in the next 10 years?
 another tough question! I really enjoyed Tower Of Guns when it came out, which felt like a really fresh take on the Roguelike concept.. I'm not a purist, I love seeing ideas melded together (although I love true strict Roguelikes as well) - I'm always excited to see what happens when Roguelike concepts are applied to completely different genres and something new is born.. I don't really have a vision I'm just excited to see what people will come up with next :)
 
 ## Are there any projects or things you'd like to promote or draw attention to 
