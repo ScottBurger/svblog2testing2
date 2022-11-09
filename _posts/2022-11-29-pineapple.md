@@ -14,9 +14,7 @@ tags: ["2012", episode bundle, modern rogue, traditional roguelike]
 ---
 
 
-We kick off the roguelikes of 2012 with a collection of the some pretty extreme indie titles: Hack, Slash, Loot - a coffeebreak length roguelike with inventory slots as small as your character, the overall bamboozling title A Valley Without Wind, and the explosive squad-based shooter Pineapple Smash Crew. Will laments about something and Colin reminisces about the Nintendo 64.
-
-Thanks again for David Williamson and Rich Edwards for providing indie game dev Q&A for this episode. You can find [David's full response here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/hack.md#qa-with-david-williamson-of-hack-slash-loot) and you can [find Rich's one here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/pineapple.md#qa-with-rich-edwards-of-pineapple-smash-crew).
+We kick off the roguelikes of 2012 with a collection of the some pretty extreme indie titles: Hack, Slash, Loot - a coffeebreak length roguelike with inventory slots as small as your character, the overall bamboozling title A Valley Without Wind, and the explosive squad-based shooter Pineapple Smash Crew. Thanks again for David Williamson and Rich Edwards for providing indie game dev Q&A for this episode. You can find [David's full response here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/hack.md#qa-with-david-williamson-of-hack-slash-loot) and you can [find Rich's one here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/pineapple.md#qa-with-rich-edwards-of-pineapple-smash-crew).
 
 Next episode: Cargo Commander / Realm of the Mad God / Din's Curse
 
