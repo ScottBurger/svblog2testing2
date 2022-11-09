@@ -1,5 +1,7 @@
 # Q&A with David Williamson of Hack, Slash, Loot
 
+![hack](https://cdn.cloudflare.steamstatic.com/steam/apps/207430/header.jpg?t=1667129765)
+
 ## How did you get interested in video games? What led you to start developing your own games?
 
 Well, I got my first computer in the mid 80s, a lovely Commodore C16 pus/4, and it came with about 20 games. From that moment I was hooked on games. It also came with a syntax book for Commodore Basic, and being the curious type I had to try and work out what all the weird code words meant. It’s a short leap to put an enjoyment of games and an enjoyment of programming together.
