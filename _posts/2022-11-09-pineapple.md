@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hack, Slash, Loot / A Valley Without Wind / Pineapple Smash Crew"
-date: 2022-11-29
+date: 2022-11-09
 file: https://grogpod.s3.us-west-2.amazonaws.com/hack-valley-pineapple.mp3
 description: "We kick off the roguelikes of 2012 with a collection of the some pretty extreme indie titles: Hack, Slash, Loot - a coffeebreak length roguelike with inventory slots as small as your character, the overall bamboozling title A Valley Without Wind, and the explosive squad-based shooter Pineapple Smash Crew. Thanks again for David Williamson and Rich Edwards for providing indie game dev Q&A for this episode. You can find their full responses at grogpod.zone.
 
