@@ -15,11 +15,20 @@ when finished:
 
 The combined ranking data can be found below:
 
-| Game | Scott Rank | Will Rank | Colin Rank | Avg |
+| Game | Scott Rank | Colin Rank | Will Rank | Avg |
 |  :----: |  :----: |  :----: |  :----: |  :----: |
-| The Binding of Isaac: Rebirth | 1 | 1 | 1 | 1
-| Dungeons of Dredmor | 2 | 2 | 2 | 2
-| The Binding of Isaac | 3 | 3 | 3 | 3
+| Binding of Isaac: Rebirth | 1          | 1          | 1         | 1.00     |
+| Dungeons of Dredmor       | 2          | 3          | 2         | 2.33     |
+| Pineapple Smash Crew      | 3          | 2          | 3         | 2.67     |
+| Hack, Slash, Loot         | 4          | 5          | 4         | 4.33     |
+| Binding of Isaac          | 5          | N/A        | NA        | 5.00     |
+| A Valley Without Wind     | 6          | 4          | 5         | 5.00     |
+
+
+
+
+
+<!-- special thanks to https://tabletomarkdown.com/convert-spreadsheet-to-markdown -->
 
 
 
