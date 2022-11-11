@@ -7,7 +7,11 @@ description: "We kick off the roguelikes of 2012 with a collection of the some p
 
 Next episode: Cargo Commander / Realm of the Mad God / Din's Curse
 
-Contact us at grogpodzone@gmail.com!"
+Contact us at grogpodzone@gmail.com!
+
+Intro music: Pharoah Sanders - You've Got To Have Freedom
+Outro music: Syphus - Fragmentation Symphony
+"
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
@@ -26,6 +30,8 @@ Next episode: Cargo Commander / Realm of the Mad God / Din's Curse
 
 Contact us at grogpodzone@gmail.com!
 
+Intro music: Pharoah Sanders - You've Got To Have Freedom
+Outro music: Syphus - Fragmentation Symphony
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Purnkr0GRsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
