@@ -17,12 +17,14 @@ The combined ranking data can be found below:
 
 | Game | Scott Rank | Colin Rank | Will Rank | Avg |
 |  :----: |  :----: |  :----: |  :----: |  :----: |
-| Binding of Isaac: Rebirth | 1          | 1          | 1         | 1.00     |
-| Dungeons of Dredmor       | 2          | 3          | 2         | 2.33     |
-| Pineapple Smash Crew      | 3          | 2          | 3         | 2.67     |
-| Hack, Slash, Loot         | 4          | 5          | 4         | 4.33     |
-| Binding of Isaac          | 5          | N/A        | NA        | 5.00     |
-| A Valley Without Wind     | 6          | 4          | 5         | 5.00     |
+| Binding of Isaac: Rebirth | 1          | 1          | 1         | 1.00     | 1.00        | 0.00    |
+| Dungeons of Dredmor       | 2          | 4          | 2         | 2.67     | 2.00        | 1.15    |
+| Din's Curse               | 5          | 2          | 3         | 3.33     | 3.00        | 1.53    |
+| Pineapple Smash Crew      | 4          | 3          | 4         | 3.67     | 4.00        | 0.58    |
+| Cargo Commander           | 3          | 7          | 5         | 5.00     | 5.00        | 2.00    |
+| Hack, Slash, Loot         | 6          | 8          | 5         | 6.33     | 6.00        | 1.53    |
+| A Valley Without Wind     | 7          | 5          | 8         | 6.67     | 7.00        | 1.53    |
+| Realm of the Mad God      | 8          | 6          | 7         | 7.00     | 7.00        | 1.00    |
 
 
 
