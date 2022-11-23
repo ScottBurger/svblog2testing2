@@ -27,7 +27,7 @@ navbar-links:
   Hosts: "hosts"
   Episodes: "tags"
   Rankings: "rankings"
-  Patreon: "patreon"
+  # Patreon: "patreon"
   Contact Us: "contact"
 
 ################
