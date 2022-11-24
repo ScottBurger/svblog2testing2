@@ -15,8 +15,8 @@ when finished:
 
 The combined ranking data can be found below:
 
-| Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev
-|  :----: |  :----: |  :----: |  :----: |  :----: |
+| Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
+|  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
 | Binding of Isaac: Rebirth | 1          | 1          | 1         | 1.00     | 1.00        | 0.00    |
 | Dungeons of Dredmor       | 2          | 4          | 2         | 2.67     | 2.00        | 1.15    |
 | Din's Curse               | 5          | 2          | 3         | 3.33     | 3.00        | 1.53    |
