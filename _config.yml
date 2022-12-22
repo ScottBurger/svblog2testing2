@@ -91,11 +91,11 @@ rss-description: The Going Rogue Gaming Podcast (GROGPOD) is a bi-weekly show ab
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: false
+  reddit: true
   # instagram: true # have to add in custom functionality for?
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
