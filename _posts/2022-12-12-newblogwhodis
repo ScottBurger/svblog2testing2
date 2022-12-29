@@ -19,3 +19,7 @@ asdfasdfasdfasdf
 
 
 
+```python
+def func:
+  print("test")
+  ```
