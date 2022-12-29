@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: GROGPOD!
-description: The podcast documenting the data and history of the Roguelike genre
+title: SVBlog
+description: The intersection of data science, cycling, games, and stuff
 
 # Your name to show in the footer
 author: Scott V. Burger
@@ -23,11 +23,7 @@ lang: en
 ###############################################
 
 navbar-links:
-  Subscribe: "subscribe"
-  Hosts: "hosts"
-  Episodes: "tags"
-  Rankings: "rankings"
-  # Patreon: "patreon"
+  About: "about"
   Contact Us: "contact"
 
 ################
@@ -93,13 +89,13 @@ rss-description: The Going Rogue Gaming Podcast (GROGPOD) is a bi-weekly show ab
 share-links-active:
   twitter: false
   facebook: true
-  linkedin: false
+  linkedin: true
   reddit: true
   # instagram: true # have to add in custom functionality for?
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "GROGPOD.ZONE"
+url-pretty: "svburger.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -165,10 +161,10 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-KMWZKXFHFQ"
+# gtag: "G-KMWZKXFHFQ"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-KMWZKXFHFQ"
+# google_analytics: "G-KMWZKXFHFQ"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
